@@ -18,7 +18,6 @@ Layout
 ------
 
 ![](pcb-layout.png)
-![](pcb-layout.png)
 
 
 3D-Views
